@@ -1,7 +1,7 @@
 # KitchenServerGo
 This is the kitchen part of the Restaurant simulation of the first lab at the Network Programming course.
 
-The dining hall part of the Restaurant simulation: https://github.com/GheorgheMorari/DiningHallServerGO
+The dining hall part of the Restaurant simulation: https://github.com/MihaiAshtifeni/PR.diningHall.GO
 # Docker stuff:
 If you don't run linux, or don't have git bash, change the file type of the scripts to cmd.
 
